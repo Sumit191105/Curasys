@@ -57,7 +57,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/your-username/curasys-hms.git
+git clone 
 Setup Backend:
 
 Navigate to the backend folder: cd backend
@@ -77,6 +77,7 @@ Install dependencies: npm install
 Add your Firebase credentials to src/firebase.js.
 
 Start the development server: npm run dev
+
 
 
 
